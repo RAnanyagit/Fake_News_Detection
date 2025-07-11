@@ -61,3 +61,8 @@ weighted avg       1.00      1.00      1.00      8980
 Custom Prediction Example:
 check_news("Government confirms new economic reforms")
 
+## Output
+
+![Model Output](images/output.jpeg)
+
+
