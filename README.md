@@ -63,6 +63,9 @@ check_news("Government confirms new economic reforms")
 
 ## Output
 
-![Model Output](images/output.png)
+Screenshot of the model’s performance:
+
+![Model Output](images/Output.jpeg)
+
 
 
