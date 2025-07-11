@@ -63,6 +63,6 @@ check_news("Government confirms new economic reforms")
 
 ## Output
 
-![Model Output](images/output.jpeg)
+![Model Output](images/output.png)
 
 
